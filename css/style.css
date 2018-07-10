@@ -1,0 +1,13 @@
+html {
+font-family: sans-serif;
+}
+
+body {
+color: white;
+background: #616161;
+}
+
+.lastResult {
+color: black;
+padding: 5px;
+}
